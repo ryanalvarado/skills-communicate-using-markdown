@@ -16,3 +16,9 @@ normal paragraph.
 
 ``` javascript
 var myVarrrrrr = "HELLO";
+```
+
+## Markdown list
+- [ ] Task 1
+- [ ] Task 2
+- [X] Task 3
